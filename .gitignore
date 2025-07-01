@@ -1,0 +1,48 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Visual Studio Code
+
+# Visual Studio
+.vs/
+*.dbmdl
+*.bak
+*.log
+*.tlog
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Build Results
+*.dll
+*.exe
+*.app
+*.pdb
+*.cache
+*.class
+*.csproj.user
+
+# Configuration files
+*.config
+appsettings.*.json
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+config.bat
+node_modules
